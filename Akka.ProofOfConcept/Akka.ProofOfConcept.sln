@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.ProofOfConcept.Shared", "Akka.ProofOfConcept.Shared\Akka.ProofOfConcept.Shared.csproj", "{6E5A7932-359D-4814-A3A0-F1C75962CB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.ProofOfConcept.Server", "Akka.ProofOfConcept.Server\Akka.ProofOfConcept.Server.csproj", "{4E0ABF02-CD2F-4BB5-BB90-C87C9845F072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akka.ProofOfConcept.Client", "Akka.ProofOfConcept.Client\Akka.ProofOfConcept.Client.csproj", "{5FCF6E01-F61D-4A1D-B81E-9C5196DC7D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E5A7932-359D-4814-A3A0-F1C75962CB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5A7932-359D-4814-A3A0-F1C75962CB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5A7932-359D-4814-A3A0-F1C75962CB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5A7932-359D-4814-A3A0-F1C75962CB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0ABF02-CD2F-4BB5-BB90-C87C9845F072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0ABF02-CD2F-4BB5-BB90-C87C9845F072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0ABF02-CD2F-4BB5-BB90-C87C9845F072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0ABF02-CD2F-4BB5-BB90-C87C9845F072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCF6E01-F61D-4A1D-B81E-9C5196DC7D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCF6E01-F61D-4A1D-B81E-9C5196DC7D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCF6E01-F61D-4A1D-B81E-9C5196DC7D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCF6E01-F61D-4A1D-B81E-9C5196DC7D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4564BDE-A040-4D78-8971-617104681D74}
+	EndGlobalSection
+EndGlobal
